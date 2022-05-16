@@ -2,23 +2,23 @@
 
 
 
-; 2022-04 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总 (KB5012670)
-_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x64_07585eb5c24babfb0627903fc1436a4a4ab54a82.msu
+; 2022-05 适用于 Windows 8.1 基于 x64 系统的服务堆栈更新 (KB5014025)
+_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014025-x64_083b88cc298e107261f2615517de99f93603d184.msu
 
-; 2022-04 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总 (KB5012670)
-_8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu
+; 2022-05 适用于 Windows 8.1 基于 x86 系统的服务堆栈更新 (KB5014025)
+_8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014025-x86_0201d799b4a1883492ce1eecf04cb09a3f45c5b3.msu
 
-; 2022-04 适用于 Windows 8.1 基于 x86 系统的服务堆栈更新 (KB5012672)
-_8.1x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012672-x86_2999ec9917fa4e5822f8ac5a2bd05903081cce29.msu
+; 2022-05 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总 (KB5014011)
+_8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x86_6d92ac7b5cbb8ae79c78eb75e7964a240e40dbdd.msu
 
-; 2022-04 适用于 Windows 8.1 基于 x64 系统的服务堆栈更新 (KB5012672)
-_8.1x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012672-x64_66e19403859f08376e346bf7b191aa8ae543b87a.msu
+; 2022-05 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总 (KB5014011)
+_8.1x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x64_8677efb857d5a370986406a2bf133ba4e1947f16.msu
 
-; 2022-04 适用于 Windows 8.1 基于 x86 系统的 .NET Framework 4.8 的安全和质量汇总 (KB5012124)
-_8.1x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5012124-x86-ndp48_8affd6cea3d8a875248ea56c999de3004b159905.msu
+; 2022-05 适用于 Windows 8.1 基于 x86 系统的 .NET Framework 4.8 的安全和质量汇总 (KB5013631)
+_8.1x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5013631-x86-ndp48_ec95cec9d0a63ae4721ebbc7c09aecca7a8db2c4.msu
 
-; 2022-04 适用于 Windows 8.1 和 Server 2012 R2 基于 x64 系统的 .NET Framework 4.8 的安全和质量汇总 (KB5012124)
-_8.1x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5012124-x64-ndp48_caf162c8783e0e5d9a0d43d4e65c80f49ead68cf.msu
+; 2022-05 适用于 Windows 8.1 和 Server 2012 R2 基于 x64 系统的 .NET Framework 4.8 的安全和质量汇总 (KB5013631)
+_8.1x64https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5013631-x64-ndp48_79a027e74f6c108df901717e5e2a6d2539e67594.msu
 
 ; 2022-01 适用于 Windows 8.1 基于 x64 系统的仅安全更新
 _only_8.1x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows8.1-kb5009595-x64_9d5677ca5e865931bc908b13139bf266ccbf2922.msu
@@ -28,42 +28,54 @@ _only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu
 
 
 
-; 2022-04 适用于 Windows 10 Version 1809 基于 x64 系统的累积更新 (KB5012647)
-_1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5012647-x64_546889f367caf2a1edd79f5db7d8507e7a53e31b.msu
-
-
-; 2022-04 适用于 Windows 10 Version 1809 基于 x86 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5012119)
-_1809x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5012119-x86-ndp48_c54dea33c97dadb50f17dc9b0c71146f1690ade9.msu
-
-
-; 2022-04 适用于 Windows 10 Version 1809 基于 x64 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5012119
-_1809x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5012119-x64-ndp48_1bb9197b286cb2f7eba4667942abf6bd12fcf3f5.msu
-
-
-; 2022-04 适用于 Windows 10 Version 1809 基于 x86 系统的累积更新 (KB5012647)
-_1809x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012647-x86_35bd0bbe02b7ecfad0ce7e09946f780dcd142f15.msu
 
 
 
+; 2022-05 适用于 Windows 10 Version 1809 基于 x64 系统的累积更新 (KB5013941)
+_1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
 
-; 2022-04 适用于 Windows 10 Version 21H2 的 04 累积更新，适合基于 x86 的系统 (KB5012599)
+; 2022-05 适用于 Windows 10 Version 1809 基于 x86 系统的累积更新 (KB5013941)
+_1809x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x86_2cc1ab49968b97f690c0db7c6aa5b830de728d85.msu
+
+; 2022-05 适用于 Windows 10 Version 1809 基于 x86 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5013626)
+_1809x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5013626-x86-ndp48_56de3927508b78f03a3c7eb5e0049dd534a1db98.msu
+
+; 2022-05 适用于 Windows 10 Version 1809 基于 x64 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5013626)
+_1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5013626-x64-ndp48_e2b4283a00b2e97030507f071c3ecc6a2a352064.msu
+
+
+
+
+; 2022-04 适用于 Windows 10 Version 21H2 基于 x86 系统的累积更新 (KB5012599)； 字节：312.4 MB
 _21H2x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x86_311fb0f392cf00d69df969b2ce61b4431f80dfed.msu
 
-; 2022-04 适用于 Windows 10 Version 21H2 的 04 累积更新，适合基于 x64 的系统 (KB5012599)
-_21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x64_bc0efec7eb2782ac45b1749fb902a80e16832c4a.msu
+; 2022-04 适用于 Windows 10 Version 21H2 基于 x64 系统的累积更新 (KB5012599)； 字节：661.4 MB
+21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x64_bc0efec7eb2782ac45b1749fb902a80e16832c4a.msu
+
+; 2022-04 适用于 Windows 10 Version 21H2 基于 x86 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5012117)； 字节：41.9 MB
+_21H2x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5012117-x86-ndp48_8817c34998f4c3a63fc962eb4c45ae5eae6029bd.msu
+
+; 2022-04 适用于 Windows 10 Version 21H2 基于 x64 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5012117)； 字节：65.7 MB
+21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5012117-x64-ndp48_926334d63c794d8b379f17f468f26db8bbc6c7c0.msu
 
 
 
-; 2022-04 适用于 Windows 10 Version 1607 基于 x64 系统的累积更新 (KB5012596)
-_1607x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012596-x64_af3466a508184a5c1cb62cd6767a0bd2c66ddf01.msu
-
-; 2022-04 适用于 Windows 10 Version 1607 基于 x86 系统的累积更新 (KB5012596)
-_1607x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5012596-x86_59e0c3e402a5088a407894da98c7e9b87a69f20a.msu
-
-; 2022-04 适用于 Windows 10 Version 1607 基于 x86 系统的 .NET Framework 4.8 的累积更新 (KB5012118)
-_1607x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5012118-x86-ndp48_8259b862b561528c5cda6a8924faf38c726eb592.msu
-
-; 2022-04 适用于 Windows 10 Version 1607 基于 x64 系统的 .NET Framework 4.8 的累积更新 (KB5012118)
-_1607x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5012118-x64-ndp48_1f0314f1154fe10dfe39010c4fe2d10692d8edbb.msu
 
 
+; 2022-05 适用于 Windows 10 Version 1607 基于 x64 系统的累积更新 (KB5013952)
+_1607x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x64_c9c29b4a81897db5545e284f04490c0659dc8b06.msu
+
+; 2022-05 适用于 Windows 10 Version 1607 基于 x86 系统的累积更新 (KB5013952)
+_1607x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x86_b2adf7f0b5163f0efc86cd13bc9fbb59b5ede70f.msu
+
+; 2022-05 适用于 Windows 10 Version 1607 基于 x86 系统的服务堆栈更新 (KB5014026)
+_1607x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5014026-x86_3932a25aaa5b39d8184be730f779db103bec3a72.msu
+
+; 2022-05 适用于 Windows 10 Version 1607 基于 x64 系统的服务堆栈更新 (KB5014026)
+_1607x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5014026-x64_df6de35fd472512e628c2acc6e8d58f3e6139ac9.msu
+
+; 2022-05 适用于 Windows 10 Version 1607 基于 x64 系统的 .NET Framework 4.8 的累积更新 (KB5013625)
+_1607x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5013625-x64-ndp48_40571d308318752756c72529207e43e30ed1ae01.msu
+
+; 2022-05 适用于 Windows 10 Version 1607 基于 x86 系统的服务堆栈更新 (KB5014026)
+_1607x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5014026-x86_3932a25aaa5b39d8184be730f779db103bec3a72.msu
