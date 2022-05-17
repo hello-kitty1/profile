@@ -46,19 +46,17 @@ _1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/softwa
 
 
 
-; 2022-04 适用于 Windows 10 Version 21H2 基于 x86 系统的累积更新 (KB5012599)； 字节：312.4 MB
-_21H2x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x86_311fb0f392cf00d69df969b2ce61b4431f80dfed.msu
-
-; 2022-04 适用于 Windows 10 Version 21H2 基于 x64 系统的累积更新 (KB5012599)； 字节：661.4 MB
-21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x64_bc0efec7eb2782ac45b1749fb902a80e16832c4a.msu
-
 ; 2022-04 适用于 Windows 10 Version 21H2 基于 x86 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5012117)； 字节：41.9 MB
 _21H2x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5012117-x86-ndp48_8817c34998f4c3a63fc962eb4c45ae5eae6029bd.msu
 
 ; 2022-04 适用于 Windows 10 Version 21H2 基于 x64 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5012117)； 字节：65.7 MB
 21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5012117-x64-ndp48_926334d63c794d8b379f17f468f26db8bbc6c7c0.msu
 
+; 2022-05 适用于 Windows 10 Version 21H2 基于 x86 系统的累积更新 (KB5012599)； 字节：312.4 MB
+_21H2x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x86_51733e9cda5055e5ead6e5d29df099c8895ee069.cab
 
+; 2022-05 适用于 Windows 10 Version 21H2 基于 x64 系统的累积更新 (KB5012599)； 字节：661.4 MB
+21H2x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_e85866bc2a5a4e4c7ab8200f770f74140afe5483.cab
 
 
 
